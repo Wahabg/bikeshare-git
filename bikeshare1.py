@@ -249,7 +249,7 @@ def display_data(df):
     if answer == 'yes':
         print(df[0:count])
         while more =='':
-            
+     #to ask for showing 5 more lines of raw data       
             while True:
                 more = input("Would you like to see more raw data? press enter or write no to exit ")
 
