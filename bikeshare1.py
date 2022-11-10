@@ -1,6 +1,6 @@
-import time
-import pandas as pd
-import numpy as np
+import time  #time library built in python
+import pandas as pd #pandas library for data analysis
+import numpy as np #numpy library for linear algebra computation
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
