@@ -1,8 +1,7 @@
-
 ### Date created
 this data is from udacity python project
 ### Project Title
-bikeshare python project
+bikeshare python project with modified edit to match final changes
 
 ### Description
 analysis for the bikeshare data for 3 different cities
